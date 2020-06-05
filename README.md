@@ -2,7 +2,7 @@
 This is a flappy bird game made using<a href="https://www.pygame.org/news">pygame</a> module
 # How to play
 <ul>
-  <li>Clone the repository:
+  <li>Clone the repository: https://github.com/KKVANONYMOUS/flappy-bird.git <br>
     ```bash
     $ git clone 
     ```

@@ -1,12 +1,13 @@
 # Flappy-bird
-This is a flappy bird game made using<a href="https://www.pygame.org/news">pygame</a> module
+This is a flappy bird game made using <a href="https://www.pygame.org/news">pygame</a> module
 # Instructions
 
 1.Clone the repository:<br>
 ```bash
 $ git clone https://github.com/KKVANONYMOUS/flappy-bird.git
 ```
-or download zip file<br>
+ or download zip file<br>
+ <br>
 2.In the root directory run:
 ```bash
 $ pip install pygame

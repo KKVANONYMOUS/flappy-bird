@@ -1,16 +1,19 @@
 # Flappy-bird
 This is a flappy bird game made using<a href="https://www.pygame.org/news">pygame</a> module
-# How to play
-<ul>
-  <li>Clone the repository: https://github.com/KKVANONYMOUS/flappy-bird.git <br>
-    ```bash
-    $ git clone 
-    ```
-    or download zip file
-    <li>In the root directory run:
-      ```bash
-      $ pip install pygame
-      ```
-      <li>Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
-</ul>
-<strong>Note:/strong>This project is open for any kinds of updates....If you have any don't forget to make a pull request
+# Instructions
+
+1.Clone the repository:<br>
+```bash
+$ git clone https://github.com/KKVANONYMOUS/flappy-bird.git
+```
+or download zip file<br>
+2.In the root directory run:
+```bash
+$ pip install pygame
+ ```
+3.Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.

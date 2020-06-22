@@ -1,5 +1,4 @@
-![GitHub](https://img.shields.io/github/license/KKVANONYMOUS/flappy-bird)
-# Flappy-bird
+# Flappy-bird ![GitHub](https://img.shields.io/github/license/KKVANONYMOUS/flappy-bird)
 This is a flappy bird game made using <a href="https://www.pygame.org/news">pygame</a> module
 # Instructions
 
